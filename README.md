@@ -44,11 +44,11 @@ ToDo:
 
 create tiles for enviornment, characters, enemies, items
 
-    station, vents, surface
-    
-    mouse, bug, robot, trap
-    
-    cheese, stairs, vents
+station, vents, surface
+
+mouse, bug, robot, trap
+
+cheese, stairs, vents
     
 tie level generation into codebase _3/6 level generation code is implemented and modified to add things like enemies and items randomly_
 
