@@ -25,35 +25,61 @@ This project will utilize several common open-source love2d lua libraries that w
 be listed here; 
 
 -[gamera](https://github.com/kikito/gamera)
+
 -[push](https://github.com/Ulydev/push)
+
 -[jumper](https://github.com/yuyistudio/love2d-engine/tree/master/thirdparty/jumper)
+
 -[timer (hump)](https://github.com/vrld/hump/blob/master/timer.lua)
+
 -[animation](https://github.com/patrixr/love-animation/tree/master)
+
 -[lua dungeon generator](https://github.com/vronc/Lua-Dungeon-Generator)
 
 ToDo:
+
     create tiles for enviornment, characters, enemies, items
+    
         station, vents, surface
+        
         mouse, bug, robot, trap
+        
         cheese, stairs, vents
+        
     tie level generation into codebase _3/6 level generation code is implemented and modified to add things like enemies and items randomly_
+    
     tie fov into codebase _3/6 recursive shadowcasting is employed but currently buggy; it sort of works_
+    
     give the player stats and a fail state
+    
     give enmeies basic ai and stats _3/6 added pathfinding and some randomness to enemies_
+    
     give the game a win state... _3/6 well we have a game over screen at least_
+    
     show stats on side panel? _3/6 added some player stats into test boxes which can be toggled on, instead of always having a panel up_
+    
     add upgrades chosen based on cheese consumption?
+    
     pause menu?
+    
     game balance?
+    
     ranged attacks?
+    
     enemy loot?
+    
     healing process? _3/6 added potions that can heal the player_
+    
     traps?
+    
     music?
+    
     sound effects?
 
 Notes:
+
     Game resolution for graphics will be 480x270, similar to psp/picotron
     16x16 tile grid
+    
     ~~side panel overlay on the right side taking up 120px~~ _3/6 scrapped this idea, putting info in basic text for now_
     
