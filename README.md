@@ -44,21 +44,21 @@ be listed here;
 
 ToDo:
 
-create tiles for enviornment, characters, enemies, items
+~~create tiles for enviornment, characters, enemies, items~~
 
-station, vents, surface
+~~station, vents, surface~~
 
-mouse, bug, robot, trap
+~~mouse, bug, robot~~, trap
 
-cheese, stairs, vents
+~~cheese, stairs, vents~~
     
-tie level generation into codebase _3/6 level generation code is implemented and modified to add things like enemies and items randomly_
+~~tie level generation into codebase~~ _3/6 level generation code is implemented and modified to add things like enemies and items randomly_
 
-tie fov into codebase _3/6 recursive shadowcasting is employed but currently buggy; it sort of works_
+~~tie fov into codebase~~ _3/6 recursive shadowcasting is employed but currently buggy; it sort of works_
 
-give the player stats and a fail state
+give the player stats and a ~~fail state~~
 
-give enmeies basic ai and stats _3/6 added pathfinding and some randomness to enemies_
+give enemies basic ai and stats _3/6 added pathfinding and some randomness to enemies_
 
 give the game a win state... _3/6 well we have a game over screen at least_
 
