@@ -38,6 +38,8 @@ be listed here;
 
 -[Early Gameboy Font](https://www.dafont.com/early-gameboy.font)
 
+-[Silver (font)](https://poppyworks.itch.io/silver)
+
 -[SFX by TomMusic](https://tommusic.itch.io/free-fantasy-200-sfx-pack)
 
 ToDo:
