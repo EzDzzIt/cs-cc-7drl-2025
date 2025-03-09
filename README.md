@@ -1,7 +1,7 @@
 # cs-cc-7drl-2025
 Citizen Squeaks and the Cosmic Cheese - 7DRL 2025
 
-Entry for 7DRL 2025. Development started ~~Friday, Feb 28 20:00 US CT~~ _Saturday, March 1_ (I was pretty optimistic after the initial creation of this repo that I'd have time to work that Friday night). 
+Entry for 7DRL 2025. Development started ~~Friday, Feb 28 20:00 US CT~~ _Saturday, March 1_ (I was pretty optimistic after the initial creation of this repo that I'd have time to work that Friday night). Submitted March 1st!
 
 Goal: create a functional roguelike entry that has a set of levels and an end state.  
 
@@ -41,6 +41,8 @@ be listed here;
 -[Silver (font)](https://poppyworks.itch.io/silver)
 
 -[SFX by TomMusic](https://tommusic.itch.io/free-fantasy-200-sfx-pack)
+
+-[Space Music Pack by Goose Ninja](https://gooseninja.itch.io/space-music-pack)
 
 ToDo:
 
@@ -84,7 +86,7 @@ sound effects?
 
 Notes:
 
-Game resolution for graphics will be 480x270, similar to psp/picotron
+Game resolution for graphics will be ~~480x270~~, similar to psp/picotron (actually 960x480 now)
 16x16 tile grid
 
 ~~side panel overlay on the right side taking up 120px~~ _3/6 scrapped this idea, putting info in basic text for now_
